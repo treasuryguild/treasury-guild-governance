@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Overview](README.md)
+* [Cardano Treasury Overview](README.md)
 * [Objectives and Goals](objectives-and-goals.md)
 * [Project Documents](project-documents/README.md)
-  * [Page 1](project-documents/page-1.md)
+  * [Treasury Management Framework](project-documents/page-1.md)
 
 ## Meetings
 
