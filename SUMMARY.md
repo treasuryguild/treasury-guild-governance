@@ -2,8 +2,9 @@
 
 * [Cardano Treasury Overview](README.md)
 * [Objectives and Goals](objectives-and-goals.md)
-* [Project Documents](project-documents/README.md)
-  * [Treasury Management Framework](project-documents/page-1.md)
+* [Proposals](project-documents/README.md)
+  * [Treasury Investment and Withdrawl Proposal](project-documents/page-1.md)
+  * [Implementation of Trial Period in Select Geographical Areas](project-documents/page-1-1.md)
 
 ## Meetings
 
